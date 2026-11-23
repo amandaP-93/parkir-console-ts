@@ -14,7 +14,7 @@ A TypeScript console application for managing parking vehicle data (create, read
 | Member | Features / Code Sections |
 |---|---|
 | Amanda Patricia | Project setup, Main Menu, Create + input validation, fee calculation function |
-| Isi nama lagii yaa | Proposal, Read (all data + detail by ID), Update, Delete, Search |
+| M. Fadhol Latiful Mutaqin | Proposal, Read (all data + detail by ID), Update, Delete, Search |
 
 ## How to Run
 
