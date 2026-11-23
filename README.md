@@ -7,7 +7,7 @@ A TypeScript console application for managing parking vehicle data (create, read
 | Name | NIM | GitHub Account |
 |---|---|---|
 | Amanda Patricia | 263140700111013 | @amandaP-93 |
-| [isi nama mu disini yaa] | [NIM-nya jugaa] | @Latif6261 |
+| M. Fadhol Latiful Mutaqin | 263140700111024 | @Latif6261 |
 
 ## Task Division
 
