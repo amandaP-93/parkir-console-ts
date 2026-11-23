@@ -1,6 +1,6 @@
 === PROGRESS 5 SUBMISSION — UAS FUNDAMENTALS OF PROGRAMMING ===
 Class / Group      : T1A / Group-3
-Public Repo Link   : https://github.com/[owner-username]/[repo-name]
+Public Repo Link   : https://github.com/amandaP-93/parkir-console-ts.git/parkir-console-ts
 Pull Request Link  : https://github.com/[owner-username]/[repo-name]/pull/[number]
 
 Summary of Progress 5 Achievements (Main Branch):
