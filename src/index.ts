@@ -1,6 +1,8 @@
 // ===== BAGIAN 1: IMPOR DAN INPUT =====
 // Impor modul readline bawaan Node.js untuk membaca input terminal
 import * as readline from "readline";
+// Deklarasi lokal agar tetap bisa dikompilasi tanpa global type definitions Node.js
+declare const process: { stdin: any; stdout: any };
 // Membuat antarmuka baca dari keyboard dan tulis ke layar
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
 
