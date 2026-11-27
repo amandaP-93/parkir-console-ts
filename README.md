@@ -2,6 +2,11 @@
 
 A TypeScript console application for managing parking vehicle data (create, read, update, delete, and search), including fee calculation, payment, and transaction history. Built as the Final Project (UAS) of Pemrograman Dasar, Teknologi Informasi, Fakultas Vokasi, Universitas Brawijaya.
 
+## Documentation
+
+- Report draft (Google Docs): https://docs.google.com/document/d/1wSHKGDEJYnNXg5Ikf69y9Pd8RuAz1SeRxB2qtiZxmwk/edit?tab=t.0
+- Proposal and report drafts (.docx) are also stored in the `docs/` folder.
+
 ## Team Members
 
 | Name | NIM | GitHub Account |
