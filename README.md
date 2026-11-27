@@ -18,9 +18,8 @@ A TypeScript console application for managing parking vehicle data (create, read
 
 | Member | Features / Code Sections | Main Pull Request |
 |---|---|---|
-| Amanda Patricia | Project setup (`package.json`, `tsconfig.json`, `.gitignore`); BAGIAN 1-3 (imports, constants, data types, seed data, input & validation functions); BAGIAN 5 (duration, fee calculation, payment); BAGIAN 6: Create (vehicle entry) and Vehicle Exit & Payment; BAGIAN 7 (main menu loop) | |
+| Amanda Patricia | Project setup (`package.json`, `tsconfig.json`, `.gitignore`); BAGIAN 1-3 (imports, constants, data types, seed data, input & validation functions); BAGIAN 5 (duration, fee calculation, payment); BAGIAN 6: Create (vehicle entry) and Vehicle Exit & Payment; BAGIAN 7 (main menu loop) | [Amanda's Pull Request](https://github.com/amandaP-93/parkir-console-ts/pull/1) |
 | M. Fadhol Latiful Mutaqin | Proposal; BAGIAN 4 (display & search helper functions); BAGIAN 6: Read (all data + detail by ID), Update, Delete (Y/N confirmation), Search (keyword + filters), Transaction History; Computational Thinking (Chapter I), Flowchart (Chapter II), report in `docs/` | |
-
 ## Features
 
 | Feature | Status |
