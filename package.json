@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/amandaP-93/parkir-console-ts#readme",
   "devDependencies": {
-    "@types/node": "^26.6.6",
+    "@types/node": "^26.6.11",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
